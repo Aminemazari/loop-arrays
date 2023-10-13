@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: white; 
+    
+}
+.bottun{
+    font-weight: bold;
+    margin-left:15px ;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-top :5px ;
+    padding-bottom:5px ;
+    border-radius: 10px;
+    border: none;
+}
+.input-style { 
+    text-align: center;
+   font-weight: bold;
+   border-radius: 5px;
+   border : none; 
+
+   
+}
+.lolo{
+    font-weight: bold;
+}
+.lol{
+    margin-top: 70px;
+    font-weight: bold;
+}
+.div1Style{
+    font-size: 20px;
+    font-weight: bold;
+    color :red ; 
+}
+.bottun1{
+    font-weight: bold;
+    margin-left:15px ;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-top :5px ;
+    padding-bottom:5px ;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+}
+.delete{
+
+   font-weight: bold;
+    margin-left:15px ;
+    padding-left: 20px;
+    padding-right:20px;
+    padding-top :5px ;
+    padding-bottom:5px ;
+    border-radius: 5px;
+    border: none;
+    background-color: red;
+    color: white;
+}
+.todo-row{
+display: grid;
+  grid-template-columns: 200px 150px 100px;
+  align-items: center;
+  column-gap: 10px;
+  margin-top: 10px; 
+}
